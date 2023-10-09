@@ -29,4 +29,14 @@ DevOps
 DevOps practices aim to streamline software development and deployment processes. In this section, you will find resources related to DevOps tools, methodologies, and best practices.
 
 
+Go (Golang)
+Go, also known as Golang, is a popular programming language for building scalable and efficient applications. This section covers Go fundamentals, best practices, and resources for Go developers.
 
+
+Kubernetes
+Kubernetes is a container orchestration platform that automates the deployment, scaling, and management of containerized applications. This section offers tutorials and guides on using Kubernetes effectively.
+
+
+
+Application Development
+Application development is a broad field that encompasses web, mobile, and desktop application development. Here, you will find resources and best practices for building applications.
